@@ -30,6 +30,4 @@ public class TransactionRequestDTO implements Serializable {
     public void setSecurityCode(String securityCode) {
         this.securityCode = securityCode;
     }
-
-
 }
